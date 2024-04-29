@@ -1,0 +1,14 @@
+.main_div {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 50%;
+  margin: auto;
+}
+.title {
+  background-color: gray;
+  padding: 10px 5px;
+  color: white;
+  margin: 5px 0;
+}
+.content_div{
+    padding: 20px;
+}
